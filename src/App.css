@@ -1,0 +1,58 @@
+#root {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+.nav {
+  margin: 0;
+}
+.icon {
+  width: 25px;
+}
+/* Arrow styles */
+.dropdown-arrow {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid #333; /* Adjust color as needed */
+  transition: transform 0.3s ease;
+}
+
+.dropdown-arrow.up {
+  transform: rotate(0deg);
+}
+
+.dropdown-arrow.down {
+  transform: rotate(180deg);
+}
+
+/* styles.css */
+.custom-toast-success {
+  background-color: #28a745; /* Success green */
+  color: #fff;
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+}
+
+.custom-toast-icon {
+  margin-right: 8px;
+  font-size: 20px;
+}
+
+.custom-toast-message {
+  flex: 1;
+}
+
+.custom-toast-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 9999;
+}

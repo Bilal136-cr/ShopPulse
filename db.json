@@ -1,0 +1,220 @@
+{
+  "Product": [
+    {
+      "id": "1",
+      "Category": "Headphones",
+      "title": "Noise Cancelling Headphones",
+      "Price": 189.99,
+      "image": "/assets/Product/Headphones/headphone1.png",
+      "description": "Block out all distractions with these high-quality noise cancelling headphones."
+    },
+    {
+      "id": "2",
+      "Category": "Headphones",
+      "title": "Wireless Over-Ear Headphones",
+      "Price": 139.99,
+      "image": "/assets/Product/Headphones/headphone5.png",
+      "description": "Experience superb sound quality and wireless convenience on the go."
+    },
+    {
+      "id": "3",
+      "Category": "Headphones",
+      "title": "Gaming Headphones",
+      "Price": 119.99,
+      "image": "/assets/Product/Headphones/headphone3.png",
+      "description": "Get the edge in gaming with surround sound and a built-in microphone."
+    },
+    {
+      "id": "4",
+      "Category": "Headphones",
+      "title": "Bluetooth Sports Headphones",
+      "Price": 99.99,
+      "image": "/assets/Product/Headphones/headphone4.png",
+      "description": "Perfect for sports enthusiasts, with sweat-proof and secure-fit design."
+    },
+    {
+      "id": "5",
+      "Category": "Headphones",
+      "title": "High-Fidelity Studio Headphones",
+      "Price": 239.99,
+      "image": "/assets/Product/Headphones/headphone2.png",
+      "description": "These headphones deliver professional-grade sound for studio recordings."
+    },
+    {
+      "id": "6",
+      "Category": "Headphones",
+      "title": "Compact Travel Headphones",
+      "Price": 69.99,
+      "image": "/assets/Product/Headphones/headphone6.png",
+      "description": "Lightweight and foldable, these headphones are ideal for travel."
+    },
+    {
+      "id": "7",
+      "Category": "Headphones",
+      "title": "Luxury Leather Headphones",
+      "Price": 319.99,
+      "image": "/assets/Product/Headphones/headphone7.png",
+      "description": "Premium sound meets ultimate comfort with these luxurious leather headphones."
+    },
+    {
+      "id": "8",
+      "Category": "Headphones",
+      "title": "Noise-Isolating Earbuds",
+      "Price": 79.99,
+      "image": "/assets/Product/Headphones/headphone8.png",
+      "description": "Get lost in your music with these premium noise-isolating earbuds."
+    },
+    {
+      "id": "9",
+      "Category": "Headphones",
+      "title": "Waterproof Headphones",
+      "Price": 109.99,
+      "image": "/assets/Product/Headphones/headphone9.png",
+      "description": "Designed for durability, these waterproof headphones go wherever you do."
+    },
+    {
+      "id": "10",
+      "Category": "Headphones",
+      "title": "Foldable Headphones",
+      "Price": 99.99,
+      "image": "/assets/Product/Headphones/headphone10.png",
+      "description": "Easily fold and store these headphones without compromising on sound quality."
+    },
+    {
+      "id": "11",
+      "Category": "Earbuds",
+      "title": "Gaming Wireless Earbuds",
+      "Price": 169.99,
+      "image": "/assets/Product/Headphones/headphone11.png",
+      "description": "Elevate your gaming experience with these wireless earbuds featuring surround sound."
+    },
+    {
+      "id": "12",
+      "Category": "Earbuds",
+      "title": "Active Noise Cancelling Earbuds",
+      "Price": 189.99,
+      "image": "/assets/Product/Headphones/headphone12.png",
+      "description": "Stay focused and immersed with superior noise cancellation technology."
+    },
+    {
+      "id": "13",
+      "Category": "Earbuds",
+      "title": "Professional In-Ear Monitors",
+      "Price": 149.99,
+      "image": "/assets/Product/Headphones/headphone13.png",
+      "description": "These in-ear monitors are a must-have for professional musicians."
+    },
+    {
+      "id": "14",
+      "Category": "Earbuds",
+      "title": "Budget Bluetooth Earbuds",
+      "Price": 49.99,
+      "image": "/assets/Product/Headphones/headphone1.png",
+      "description": "Affordable and functional, these are perfect for daily use."
+    },
+    {
+      "id": "15",
+      "Category": "Earbuds",
+      "title": "Comfort Fit Earbuds",
+      "Price": 119.99,
+      "image": "/assets/Product/Headphones/headphone2.png",
+      "description": "Optimized for comfort, these earbuds are perfect for long listening sessions."
+    },
+    {
+      "id": "16",
+      "Category": "Earbuds",
+      "title": "Ultimate Noise Cancelling Earbuds",
+      "Price": 239.99,
+      "image": "/assets/Product/Headphones/headphone3.png",
+      "description": "Premium design and noise cancellation for an unparalleled audio experience."
+    },
+    {
+      "id": "17",
+      "Category": "Earbuds",
+      "title": "True Wireless Audio Earbuds",
+      "Price": 89.99,
+      "image": "/assets/Product/Headphones/headphone4.png",
+      "description": "Wireless freedom with top-notch sound quality in a compact design."
+    },
+    {
+      "id": "18",
+      "Category": "Earbuds",
+      "title": "Bluetooth Over-Ear Earbuds",
+      "Price": 129.99,
+      "image": "/assets/Product/Headphones/headphone5.png",
+      "description": "Comfortable and wireless, these earbuds provide rich sound quality."
+    },
+    {
+      "id": "19",
+      "Category": "Earbuds",
+      "title": "Noise Cancelling Bluetooth Earbuds",
+      "Price": 129.99,
+      "image": "/assets/Product/Headphones/headphone6.png",
+      "description": "Block out the noise and enjoy music with these wireless earbuds."
+    },
+    {
+      "id": "20",
+      "Category": "Earbuds",
+      "title": "High-Performance Studio Earbuds",
+      "Price": 289.99,
+      "image": "/assets/Product/Headphones/headphone7.png",
+      "description": "Designed for professional use, these earbuds provide unparalleled clarity."
+    },
+    {
+      "id": "21",
+      "category": "Accessories",
+      "title": "Portable Charging Case",
+      "price": 25,
+      "image": "/assets/Product/Accessories/Accessories1.jpg",
+      "description": "Keep your earbuds charged on the go with this compact and portable charging case."
+    },
+    {
+      "id": "22",
+      "category": "Accessories",
+      "title": "Adjustable Headphone Stand",
+      "price": 30,
+      "image": "/assets/Product/Accessories/Accessories2.jpg",
+      "description": "Organize and display your headphones with this sleek and adjustable stand."
+    },
+    {
+      "id": "23",
+      "category": "Accessories",
+      "title": "Noise Cancelling Ear Pads",
+      "price": 28,
+      "image": "/assets/Product/Accessories/Accessories3.png",
+      "description": "Enhance your headphone experience with these comfortable and effective noise-cancelling ear pads."
+    },
+    {
+      "id": "24",
+      "category": "Accessories",
+      "title": "Protective Headphone Case",
+      "price": 35,
+      "image": "/assets/Product/Accessories/Accessories4.jpg",
+      "description": "Safeguard your headphones from damage with this durable and stylish protective case."
+    },
+    {
+      "id": "25",
+      "category": "Accessories",
+      "title": "Cable Management Clips",
+      "price": 27,
+      "image": "/assets/Product/Headphones/headphone1.png",
+      "description": "Keep your headphone cables neatly organized with these handy cable management clips."
+    },
+    {
+      "id": "26",
+      "category": "Accessories",
+      "title": "Headphone Cleaning Kit",
+      "price": 22,
+      "image": "/assets/Product/Headphones/headphone1.png",
+      "description": "Maintain your headphones in top condition with this comprehensive cleaning kit."
+    },
+    {
+      "id": "27",
+      "category": "Accessories",
+      "title": "Universal Headphone Adapter",
+      "price": 24,
+      "image": "/assets/Product/Headphones/headphone1.png",
+      "description": "Adapt your headphones to various devices with this versatile universal adapter."
+    }
+  ]
+}
